@@ -1,0 +1,59 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .input {
+    display: flex;
+    padding: 0.5rem;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid #e6e6e6;
+    flex-wrap: wrap;
+    border-radius: 5px;
+  }
+  
+  span {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    padding: 5px 8px;
+    border: 1px solid #e6e6e6;
+    border-radius: 25px;
+  }
+  
+  input {
+    border: none;
+    outline: none;
+    max-width: 100px;
+    margin: 5px;
+    padding: 5px;
+  }
+  .btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .button {
+    padding: 8px 8px;
+    margin: 16px 0;
+    width: 80px;
+    border: none;
+    background: purple;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  /* input:focus{
+    border-bottom:1px solid purple;
+  } */
+  span{
+      
+  }
+  .icons{
+      margin-left: 1rem;
+      color: #d4d4d4;
+      cursor: pointer;
+  }
