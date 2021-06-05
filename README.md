@@ -3,9 +3,9 @@
    InputComponent
 2. Libraries and plugins used-
    React library
-3. I have hosted this assignment using Heroku
-Link of frontend hosting- https://proedgefrontend.herokuapp.com/ 
-Link of backend hosting- https://proedgebackend.herokuapp.com/ 
+3. I have hosted this assignment using Heroku. 
+   (a). Link of frontend hosting- https://proedgefrontend.herokuapp.com/ 
+   (b). Link of backend hosting- https://proedgebackend.herokuapp.com/ 
 4. User guidelines of frontend.
    (a). First open it in any text editor.
    (b). From terminal navigate to the project directory and install dependencies using npm i.
