@@ -22,6 +22,6 @@
    Like :- https://proedgebackend.herokuapp.com/v1/data?roll=5   
    Note:- You can change roll numbers to get their pass or fail result.  
    # Made in
-![](https://img.shields.io/badge/Framework-React js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Framework-Reactjs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Backend-Nodejs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
