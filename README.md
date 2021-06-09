@@ -28,6 +28,6 @@
    ![Screenshot (190)](https://user-images.githubusercontent.com/56563223/120885456-a711d800-c606-11eb-9ab9-4fd5693bfd65.png)
 
    # Made in
-![](https://img.shields.io/badge/Framework-Reactjs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/library-Reactjs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Backend-Nodejs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
